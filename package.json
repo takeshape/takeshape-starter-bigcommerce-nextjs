@@ -10,11 +10,16 @@
   },
   "dependencies": {
     "next": "12.0.7",
+    "graphql": "^15.5.0",
     "react": "17.0.2",
+    "graphql-request": "^3.4.0",
+    "@takeshape/routing": "^5.28.0",
+    "shopify-buy": "^2.11.0",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
     "eslint": "8.4.1",
+    "@takeshape/cli": "^6.8.0",
     "eslint-config-next": "12.0.7"
   }
 }
